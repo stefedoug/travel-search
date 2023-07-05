@@ -1,4 +1,4 @@
-# Travel Dashboard
+# Travel Search
 Plan your trips with ease and peace of mind. Search a metropolitan city to travel to and have an overview of what the city's weather forecast in the next 5-days. See the top 5 rated places to eat and stay. Be a travel expert with this travel dashboard. 
 
 ## Functionality
@@ -26,24 +26,23 @@ Plan your trips with ease and peace of mind. Search a metropolitan city to trave
 * https://openweathermap.org/weather
 
 ## Link to Website
-https://itsrheine.github.io/Travel-Dashboard/
+https://stefedoug.github.io/travel-search/
 
 ## Link to Repository
-https://github.com/itsrheine/Travel-Dashboard
+https://github.com/stefedoug/travel-search
 
-## Contribution
-Created by: 
-* David Joaquin ([daejo](https://github.com/daejo)) 
+## Features
+* Phase 1
     * Hotel search API function.
     * City image search API function.
     * Image and icon assets.
     * ReadMe documentation.
     * Splash page mobile responsiveness
-* Mahmoud Abdulrhman ([MahmoudAbdulrhman](https://github.com/MahmoudAbdulrhman)) 
+* Phase 2
     * Restaurant search API function.
     * Header styling and mobile responsiveness.
     * Placeholder city stock photo function. 
-* Marrione Nguyen ([itsrheine](https://github.com/itsrheine)) 
+* Phase 3
     * Weather API function.
     * Event listener search function.
     * Modal functionality.
